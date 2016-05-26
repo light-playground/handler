@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">learnhandler</string>
+    <string name="begin_progress">开始进度</string>
+    <string name="send_code_txt">点击发送验证码</string>
+</resources>
